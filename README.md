@@ -46,7 +46,7 @@ I also specialise in visual technologies, both analyse and creation of images.
 
 -  2019                 <img alt="Vuejs" height=20 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg"> [Ledkalylatorn](https://github.com/ansandb/ledkalkyl) - Calulator for determing cost saving when switching to LED from fluorescent lamps, in Vue
 
-## Contributor
+## Professional
 
 ### Current
 
