@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm Anna Sandberg and I live in Sweden. I'm a fullstack developer, working with a broad range of languages, frameworks and tools.
 I also specialise in visual technologies, both analyse and creation of images.
-
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansandb&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansandb&layout=compact&hide=lua)
+-->
 # Stack
 
 <!-- ## Languages -->
